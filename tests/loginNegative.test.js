@@ -15,4 +15,4 @@ const LoginPage = require('../pages/LoginPage');
   console.log('Pesan error:', errorMsg);
 
   await browser.close();
-})();
+})
